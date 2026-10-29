@@ -1,1 +1,2 @@
 ﻿This is feature A
+Conflict line from master
